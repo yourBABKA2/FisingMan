@@ -1,0 +1,25 @@
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\bin\Debug\ООО Улов.exe.config
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\bin\Debug\ООО Улов.exe
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\bin\Debug\ООО Улов.pdb
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\bin\Debug\EntityFramework.dll
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\bin\Debug\EntityFramework.xml
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\ООО Улов.csproj.AssemblyReference.cache
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\ООО Улов.csproj.SuggestedBindingRedirects.cache
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\App.g.cs
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\ООО Улов_MarkupCompile.cache
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\ООО Улов_MarkupCompile.lref
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\ООО Улов.g.resources
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\ООО_Улов.Properties.Resources.resources
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\ООО Улов.csproj.GenerateResource.cache
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\ООО Улов.csproj.CoreCompileInputs.cache
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\ООО Улов.csproj.CopyComplete
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\ООО Улов.exe
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\ООО Улов.pdb
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\bin\Debug\Resources\icon.ico
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\ООО Улов_Content.g.cs
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\View\Catalog.g.cs
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\obj\Debug\View\Catalog.baml
+C:\Users\chike\source\repos\ООО Улов\ООО Улов\bin\Debug\Resources\picture.png
